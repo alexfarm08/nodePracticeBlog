@@ -1,0 +1,24 @@
+{
+  "name": "nodepracticeblog",
+  "version": "1.0.0",
+  "description": "Blog built to practice using node js.",
+  "homepage": "https://github.com/alexfarm08/nodePracticeBlog#readme",
+  "bugs": {
+    "url": "https://github.com/alexfarm08/nodePracticeBlog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfarm08/nodePracticeBlog.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
